@@ -1,0 +1,2 @@
+# AMMI-get
+assignment
